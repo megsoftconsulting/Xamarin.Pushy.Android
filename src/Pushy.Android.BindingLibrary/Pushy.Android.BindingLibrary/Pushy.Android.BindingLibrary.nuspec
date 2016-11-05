@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xamarin.Pushy.Android</id>
+    <version>1.0.16</version>
+    <title>$title$</title>
+    <authors>megsoftconsulting</authors>
+    <owners>ajpinedam megsoftconsulting</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin bindings to the Native Android Pushy SDK.</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Android Xamarin.Android Xamarin Pushy MonoDroid PushNotification Binding</tags>
+  </metadata>
+</package>
